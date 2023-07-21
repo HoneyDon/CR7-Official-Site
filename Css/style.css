@@ -18,10 +18,6 @@
     font-size: large;
     margin-bottom: 3px;
 }
-  .hero-image {
-    height: 200px; /* Set your desired height here */
-    position: relative;
-  }
   .carousel-image {
     height: 940px; /* Set your desired height here */
     transform: scale(1.0); /* Set the desired zoom level here */
