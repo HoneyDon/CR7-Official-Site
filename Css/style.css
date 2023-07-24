@@ -1,14 +1,15 @@
-.my-navbar{
-    background-color: rgb(214, 42, 42);
-}
-
 .logo{
-    height: 18%;
-    width: 18%;
+    background-image: url(../assets/My-Logo.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100px;
+    width: 120px;
 }
 
 .toggler-img{
     background-color: white;
+    color: black;
     height: 25%;
     width: 25%;
 }
@@ -18,7 +19,3 @@
     font-size: large;
     margin-bottom: 3px;
 }
-  .carousel-image {
-    height: 940px; /* Set your desired height here */
-    transform: scale(1.0); /* Set the desired zoom level here */
-  }
